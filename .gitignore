@@ -1,0 +1,19 @@
+# datos: 8.9 GB, NO va al repo (limite de GitHub: 100 MB/archivo)
+data/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# notebooks de trabajo: al repo solo va el acumulativo
+01_EDA_MRSA_MALDI-TOF.ipynb
+01_EDA_MRSA_MALDI-TOF.BACKUP.ipynb
+02_Modelado_MRSA.ipynb
+
+# notas personales de sustentacion, no son entregables
+guia.py
+guion.py
+guion2.py
+guia_sustentacion.pdf
+guion_sustentacion.pdf
+guion_sustentacion_2.pdf
