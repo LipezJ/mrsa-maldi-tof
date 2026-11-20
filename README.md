@@ -36,8 +36,7 @@ DRIAMS: espectros MALDI-TOF con perfiles de resistencia confirmados por antibiog
 
 ## Video
 
-<!-- PENDIENTE: reemplazar por la URL de YouTube -->
-`PENDIENTE`
+https://youtu.be/KpUAMYLT_I4
 
 ## Estructura
 
